@@ -38,6 +38,22 @@
 # print(f'Previous number:', num - 1 )
 
 # 8.
+# print(f'Twinkle, twinkle, little star,\n\t '
+#       'How I wonder what you are!\n\t\t\t' + '  '
+#       'Up above the world so high,\n\t\t\t' + '  '
+#       'Like a diamond in the sky.\n'
+#       'Twinkle, twinkle, little star,\n\t\t' + ' '
+#       'How I wonder what you are')
+
+# 9.
+# totalMoney = 1000
+# quantity = 3
+# price = 450
+# print(f'I got {totalMoney} dollars, this why i can buy {quantity} soccer balls for {price} dollars')
+
+# 10.
+
+
 
 
 
