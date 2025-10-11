@@ -56,7 +56,16 @@
 # pupile = int(input('Enter num of pupile: '))
 # print(f'Each pupile gets apple: {apple // pupile}\nApple in basket: {apple % pupile}')
 
+# 11.
+# weight = int(input('Enter your weight in kg: '))
+# height = int(input('Enter your height in m: '))
+# bmi = float(height / 100)
+# result = weight / bmi ** 2
+# print(f'Your body mass index = {result}')
 
+# underweight = float(18.5)
+# normal = float()
+# print(bool(0 / 2))
 
 
 
