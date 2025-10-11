@@ -52,9 +52,9 @@
 # print(f'I got {totalMoney} dollars, this why i can buy {quantity} soccer balls for {price} dollars')
 
 # 10.
-
-
-
+# apple = int(input('Enter num of apples: '))
+# pupile = int(input('Enter num of pupile: '))
+# print(f'Each pupile gets apple: {apple // pupile}\nApple in basket: {apple % pupile}')
 
 
 
