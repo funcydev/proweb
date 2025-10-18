@@ -10,7 +10,6 @@
 #     print('You are on pension')
 # else:
 #     print('Incorrect age numbers, please try again')
-from calendar import month
 
 
 # 2.
@@ -58,6 +57,7 @@ from calendar import month
 # else:
 #     print('No matching numbers')
 
+
 # 6.
 # num1 = int(input('Enter 1st number: '))
 # num2 = int(input('Enter 2nd number: '))
@@ -66,6 +66,7 @@ from calendar import month
 #     print(result)
 # else:
 #     print(num1 + num2)
+
 
 # 7.
 # year = int(input('Enter year: '))
@@ -81,6 +82,7 @@ from calendar import month
 #     print("It's a leap year")
 # else:
 #     print("It's a non-leap year")
+
 
 # 8.
 # Correct answers: 1) c, 2) a, 3) b, 4) b, 5) b, 6) b, 7) a, 8) a, 9) b, 10) a
