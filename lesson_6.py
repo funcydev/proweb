@@ -3,7 +3,6 @@
 #     if num % 2 ==0:
 #         continue
 #     print(num)
-from pyparsing import White
 
 # words = ["hello", "skip", "word", "python"]
 # for word in words:
@@ -162,8 +161,33 @@ from pyparsing import White
 # n = random.randint(1, 100)
 # while True:
 #     user_input = int(input('Guess the number: '))
-#     if user_input == n:
+#     if user_input < n:
+#         print('Should be more')
+#     elif user_input > n:
+#         print('Should be less')
+#     elif user_input == n:
 #         print('You won!')
 #         break
+
+# #6.
+# pas = '13579'
+# i = 1
+# while i <= 5:
+#     up = input(f'Attempt {i} | Enter pass: ')
+#     if up == pas:
+#         print('Bingo!')
+#         break
 #     else:
-#         print(f'Try one more time \nRandom number was: {n}')
+#         print('Not correct')
+#     i += 1
+
+# #7.
+# numbers = [12, 75, 150, 180, 145, 525, 50]
+# for i in numbers:
+#     if i % 5 == 0:
+#         if i > 500:
+#             break
+#         elif i > 150:
+#             continue
+#         print(i)
+
